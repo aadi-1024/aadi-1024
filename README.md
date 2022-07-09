@@ -1,16 +1,38 @@
-### Hi there 👋
+![MasterHead](./img/5472x3078.jpg)
+```bash
+Hello There o/
 
-<!--
-**jov-1024/jov-1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+$ whoami
+    aaditya
 
-Here are some ideas to get you started:
+$ ls /usr/share/locale/
+    en_US
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ $ pwd
+    /earth/asia/india
+ ```
+ </br>
+
+ ```Languages I Use:```
+</br>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width=48px>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain-wordmark.svg" width=48px>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width=48px>
+
+```Other Tools:```
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width=48px>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-plain.svg" width=48px>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width=48px>
+
+```Reach Me: ```
+
+
+<a href="https://www.reddit.com/u/__jov"><img src="./img/reddit.svg" width=48px> </a>
+
+Discord: jov#4465
