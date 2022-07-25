@@ -1,4 +1,4 @@
-![MasterHead](./img/5472x3078.jpg)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=joc-1024)](https://github.com/anuraghazra/github-readme-stats)
 ```bash
 Hello There o/
 
