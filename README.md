@@ -1,4 +1,5 @@
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jov-1024)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jov-1024&theme=midnight-purple&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jov-1024&theme=midnight-purple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ```bash
 Hello There o/
 
@@ -8,7 +9,7 @@ $ whoami
 $ ls /usr/share/locale/
     en_US
 
- $ pwd
+$ pwd
     /earth/asia/india
  ```
  </br>
@@ -18,9 +19,11 @@ $ ls /usr/share/locale/
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width=48px>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain-wordmark.svg" width=48px>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width=48px>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain-wordmark.svg" width=48px>
+
 
 ```Other Tools:```
 
