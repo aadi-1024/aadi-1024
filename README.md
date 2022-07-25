@@ -20,7 +20,7 @@ $ pwd
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width=48px>
 
 
-<img src="https://github.com/NTB45/tiny_edit/blob/main/img/image(1).svg" width=57px>
+<img src="https://github.com/NTB45/tiny_edit/blob/main/img/image(2).svg" width=48px>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain-wordmark.svg" width=48px>
 
