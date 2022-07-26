@@ -19,10 +19,9 @@ $ pwd
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width=48px>
 
+<img src="./img/Ferris.svg" width=48px>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width=48px>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain-wordmark.svg" width=48px>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width=48px>
 
 
 ```Other Tools:```
