@@ -1,40 +1,19 @@
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jov-1024&theme=midnight-purple&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jov-1024&theme=midnight-purple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-```bash
-Hello There o/
+<div align="center" width=50%>
+<img src="https://github-readme-stats.vercel.app/api?username=jov-1024&theme=midnight-purple&show_icons=true" style=width:75%>
 
-$ whoami
-    aaditya
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jov-1024&theme=midnight-purple&layout=compact" style=width:75%>
 
-$ ls /usr/share/locale/
-    en_US
+</div>
 
-$ pwd
-    /earth/asia/india
- ```
- </br>
+<br>
+<br>
+<br>
 
- ```Languages I Use:```
-</br>
+<div align="center">
+<a href="mailto:thakuraaditya1024@gmail.com"><img src="https://img.shields.io/badge/E--MAIL-9b7bff?style=for-the-badge&logo=protonmail&logoColor=white"></a>
+<a href="https://reddit.com/user/__jov"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
+<a href="https://discord.com"><img src="https://img.shields.io/badge/DISCORD-%235fbec2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://getfedora.org/"><img src="https://img.shields.io/badge/FEDORA LINUX-%231d87d0?style=for-the-badge&logo=fedora&logoColor=white"></a>
+</div>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width=48px>
-
-<img src="./img/Ferris.svg" width=48px>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width=48px>
-
-
-```Other Tools:```
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width=48px>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-plain.svg" width=48px>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width=48px>
-
-```Reach Me: ```
-
-
-<a href="https://www.reddit.com/u/__jov"><img src="./img/reddit.svg" width=48px> </a>
-
-Discord: jov#4465
+<!-- Shamelessly copied from @czarhex on Github -->
