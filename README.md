@@ -1,8 +1,8 @@
 <div align="center" width=50%>
-<img src="https://github-readme-stats-ruby-one.vercel.app/api?username=aadi-1024&theme=midnight-purple&show_icons=true" style=width:75%>
+<img src="https://github-readme-stats.vercel.app/api?username=aadi-1024&theme=tokyonight&show_icons=true" style=width:75%>
 
-<img src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=aadi-1024&theme=midnight-purple&layout=compact" style=width:75%>
-
+<!-- <img src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=aadi-1024&theme=midnight-purple&layout=compact" style=width:75%> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadi-1024&langs_count=6&theme=tokyonight" style=width:75%>
 </div>
 
 <br>
